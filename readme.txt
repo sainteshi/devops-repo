@@ -1,4 +1,4 @@
-Read them > readme.txt
-touch read me > readme.txt
-echo Read them
-getout
+Read them 
+Tag them
+commit them
+https://github.com/sainteshi/patchwork.git
